@@ -1,3 +1,3 @@
 # hello-world
 
-hello world, this is the minor branching of this file.
+hello world, this branching is off the master branching.
